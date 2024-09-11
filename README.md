@@ -24,12 +24,19 @@ The performance of the trained models is assessed using standard evaluation metr
 Before running the project, ensure that you have the following tools and libraries installed:
 
 Python 3.x
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
-Jupyter Notebook (optional, but recommended)
+
+Colab Notebook (optional, but recommended)
+
 To install the necessary libraries, run the following command:
 
 bash
@@ -39,6 +46,7 @@ How to Run the Project
 Clone the repository (if applicable) or download the project files to your local machine.
 
 Open the project in your preferred environment (e.g., Jupyter Notebook or any Python IDE).
+
 Follow the steps outlined in the notebook/script:
 
 Step 1: Data Exploration

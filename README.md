@@ -57,7 +57,7 @@ Follow the steps outlined in the notebook/script:
 
 - Step 1: Data Exploration
 - Step 2: Data Preparation
--  3: Data Modeling
+- Step 3: Data Modeling
 
 Run the cells in sequence or execute the scripts to train and evaluate the classification models.
 

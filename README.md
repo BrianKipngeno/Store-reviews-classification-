@@ -2,6 +2,7 @@
 This project aims to create a machine learning model that classifies new store reviews into one of two labels (Label 1 or Label 2) based on the given dataset. The dataset contains user reviews of stores, which are used to train and evaluate classification models.
 
 **Dataset**
+
 The dataset used in this project can be found at the following link:
 
  https://bit.ly/2PdbtfD
@@ -9,18 +10,23 @@ The dataset used in this project can be found at the following link:
 **Project Structure**
 
 **Data Exploration:**
+
 This step involves exploring the dataset to understand its structure, the distribution of the labels, and key characteristics of the reviews. Data visualization and descriptive statistics are used to identify potential patterns and insights.
 
 **Data Preparation:**
+
 Data preprocessing is performed to clean and prepare the dataset for modeling. This includes handling missing values, tokenizing and vectorizing text data, and splitting the data into training and testing sets.
 
 **Modeling:**
+
 In this phase, different classification algorithms are used to train models. The primary goal is to evaluate various approaches and choose the best-performing model. Some common algorithms considered include Logistic Regression, Support Vector Machines (SVM), Decision Trees, and Random Forests.
 
 **Model Evaluation:**
+
 The performance of the trained models is assessed using standard evaluation metrics such as accuracy, precision, recall, and F1-score. Cross-validation is applied to ensure that the model generalizes well to unseen data.
 
 **Prerequisites**
+
 Before running the project, ensure that you have the following tools and libraries installed:
 
 Python 3.x
@@ -56,6 +62,7 @@ Step 3: Data Modeling
 Run the cells in sequence or execute the scripts to train and evaluate the classification models.
 
 **Conclusion**
+
 By the end of this project, you will have a trained model capable of tagging new store reviews into Label 1 or Label 2. The project demonstrates the end-to-end process of building a classification model, from data exploration to model evaluation.
 
 **Future Enhancements**
